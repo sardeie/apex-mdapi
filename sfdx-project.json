@@ -1,0 +1,22 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "FinancialForce Apex MDAPI",
+            "versionName": "Version 1.1",
+            "versionNumber": "1.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "ffmdapi",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "42.0",
+    "packageAliases": {
+        "FinancialForce Apex MDAPI": "0Ho6g0000008OztCAE",
+        "FinancialForce Apex MDAPI@1.0.0-1": "04t6g000008C12vAAC",
+        "FinancialForce Apex MDAPI@1.0.0-2": "04t6g000008C130AAC",
+        "FinancialForce Apex MDAPI@1.0.0-3": "04t6g000008C135AAC",
+        "FinancialForce Apex MDAPI@1.0.0-4": "04t6g000008C13AAAS",
+        "FinancialForce Apex MDAPI@1.1.0-1": "04t6g000008C13FAAS"
+    }
+}
